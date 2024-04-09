@@ -1,4 +1,4 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/)
+scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [Scratchy Studios](scratchy-studios.github.io/html-website) projects!
 
 ## Setup
 
